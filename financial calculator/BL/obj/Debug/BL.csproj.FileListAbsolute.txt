@@ -1,0 +1,6 @@
+D:\Programing\financial calculator\BL\bin\Debug\BL.dll
+D:\Programing\financial calculator\BL\bin\Debug\BL.pdb
+D:\Programing\financial calculator\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Programing\financial calculator\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Programing\financial calculator\BL\obj\Debug\BL.dll
+D:\Programing\financial calculator\BL\obj\Debug\BL.pdb
