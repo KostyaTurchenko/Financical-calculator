@@ -4,3 +4,9 @@ D:\Programing\financial calculator\BL\obj\Debug\BL.csprojResolveAssemblyReferenc
 D:\Programing\financial calculator\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
 D:\Programing\financial calculator\BL\obj\Debug\BL.dll
 D:\Programing\financial calculator\BL\obj\Debug\BL.pdb
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\bin\Debug\BL.dll
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\bin\Debug\BL.pdb
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\obj\Debug\BL.dll
+D:\Programing\ProjectGit\MyProjects\financial calculator\BL\obj\Debug\BL.pdb

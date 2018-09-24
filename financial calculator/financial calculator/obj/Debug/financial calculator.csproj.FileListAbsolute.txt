@@ -9,3 +9,14 @@ D:\Programing\financial calculator\financial calculator\obj\Debug\financial calc
 D:\Programing\financial calculator\financial calculator\obj\Debug\financial calculator.csproj.CoreCompileInputs.cache
 D:\Programing\financial calculator\financial calculator\obj\Debug\financial calculator.exe
 D:\Programing\financial calculator\financial calculator\obj\Debug\financial calculator.pdb
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\bin\Debug\financial calculator.exe
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\bin\Debug\financial calculator.pdb
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\bin\Debug\BL.dll
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\bin\Debug\BL.pdb
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial calculator.csprojResolveAssemblyReference.cache
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial_calculator.Form1.resources
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial_calculator.Properties.Resources.resources
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial calculator.csproj.GenerateResource.Cache
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial calculator.csproj.CoreCompileInputs.cache
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial calculator.exe
+D:\Programing\ProjectGit\MyProjects\financial calculator\financial calculator\obj\Debug\financial calculator.pdb
